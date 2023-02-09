@@ -17,7 +17,7 @@ This is a web dev project 'gpatracker' used gatsby.
 
      The name of the project is simply 'gpa tracker' created as a web dev project 1.
      
-![](C:\Users\HP\Desktop\github\gpa\ScreenshotGPA.PNG)
+<img src= "Website.PNG">
 1.  **Author**
 
      This project is aurthorized by Min Khant Kyaw , 6410935, junior web developer. This project is written using approximately 8 days.
@@ -25,11 +25,33 @@ This is a web dev project 'gpatracker' used gatsby.
 1.  **Project Description**
 
     The website introduce users a system to calculate their grade average point of each every semester and overall gpa. 
+    
+    <img src= "Intro.PNG">
 
-     Users will frist select their majors CS or IT, 
-     Secondly, they will select group courses, languages or general and others.
-     Finally They can choose a subject and it will be automatically added to the list
-
+     Users will first select their majors CS or IT.
+     
+     <img src= "choosemajor.PNG">
+     
+     Secondly, they will select group courses to focus on the specific subjects. example, Language courses, core courses, general courses
+     
+     <img src= "choosegroup.PNG">
+    
+     And then, They can choose a subject and it will be automatically added to the list
+     
+     <img src= "choosesubject.PNG">
+     
+     After choosing one subject, a dropdown bar for grade selection will appear and users can give inputs.
+     
+     <img src= "choosegrade.PNG">
+     
+     Finally, after adding minimum 4 subjects, maximum 7 subjects, user can create a table and give names.
+     a colored glazing desgined table will appear and the webiste will store users' grades.
+     
+     <img src = "tableadded.PNG">
+     
+     Users can add multiple tables to calculate overall GPA from them as well as get the table back when refreshed the webpage
+     
+     <img src = "tables.PNG">
    
 1.  **Features**
 
@@ -44,7 +66,11 @@ This is a web dev project 'gpatracker' used gatsby.
      2. Gatsby framework for deployment
 
      3. Index will be routed as the main file while other serves as components
-
+     
+     4. npm install react-bootstrap bootstracp
+     
+     
+     <img src = "ScreenshotGPA.PNG">
 
 
 
