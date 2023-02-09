@@ -21,7 +21,10 @@ This is a web dev project 'gpatracker' used gatsby.
 1.  **Author**
 
      This project is aurthorized by Min Khant Kyaw , 6410935, junior web developer. This project is written using approximately 8 days.
-
+   ##Authors
+   -[Min Khant Kyaw]
+   (https://github.com/MinKhantKyaw5006)
+     
 1.  **Project Description**
 
     The website introduce users a system to calculate their grade average point of each every semester and overall gpa. 
