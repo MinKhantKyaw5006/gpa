@@ -16,7 +16,8 @@ This is a web dev project 'gpatracker' used gatsby.
 1.  **Project Name**
 
      The name of the project is simply 'gpa tracker' created as a web dev project 1.
-
+     
+![](C:\Users\HP\Desktop\github\gpa\ScreenshotGPA.PNG)
 1.  **Author**
 
      This project is aurthorized by Min Khant Kyaw , 6410935, junior web developer. This project is written using approximately 8 days.
