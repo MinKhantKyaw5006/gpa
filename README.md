@@ -15,7 +15,7 @@ This is a web dev project 'gpatracker' used gatsby.
 
 1.  **Project Name**
 
-The name of the project is simply 'gpa tracker' created as a web dev project 1.
+     The name of the project is simply 'gpa tracker' created as a web dev project 1.
 
 1.  **Author**
 
@@ -48,7 +48,7 @@ The name of the project is simply 'gpa tracker' created as a web dev project 1.
 
 ## 🧐 What's inside?
 
-A quick look at the top-level files and directories you'll see in a typical Gatsby project.
+A quick look at the top-level files and directories you'll see in Project1-GPATracker Gatsby project.
 
     .
     ├── node_modules
