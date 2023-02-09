@@ -1,11 +1,11 @@
 import React, { useEffect, useState } from "react"
 import Select from 'react-select'
 import { useLocalStorage } from "react-use"
-import AverageGPA from "../components/averageGPA"
-import CreateSemsterForm from "../components/createSemsterForm"
-import SemsterGPA from "../components/semsterGPA"
-import Subject from "../components/subjects"
-import { curriculum } from './cs-2019.json'
+import AverageGPA from "../../components/averageGPA"
+import CreateSemsterForm from "../../components/createSemsterForm"
+import SemsterGPA from "../../components/semsterGPA"
+import Subject from "../../components/subjects"
+import { curriculum } from '../cs-2019.json'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function ChooseMajor() {
