@@ -5,7 +5,7 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby's default starter
+  Min Khant Kyaw's GPA TRACKER
 </h1>
 
 This is a web dev project 'gpatracker' used gatsby.
