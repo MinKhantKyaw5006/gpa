@@ -19,7 +19,7 @@ The name of the project is simply 'gpa tracker' created as a web dev project 1.
 
 1.  **Author**
 
-   This project is aurthorized by Min Khant Kyaw , 6410935, junior web developer. This project is written using approximately 8 days.
+     This project is aurthorized by Min Khant Kyaw , 6410935, junior web developer. This project is written using approximately 8 days.
 
 1.  **Project Description**
 
@@ -32,17 +32,17 @@ The name of the project is simply 'gpa tracker' created as a web dev project 1.
    
 1.  **Features**
 
-After adding at least 4 subjects, users can add their grades and click createsemester button. This function will create a semester table with the user's give name.
+     After adding at least 4 subjects, users can add their grades and click createsemester button. This function will create a semester table with the user's give name.
 
-Users can refresh the webpage again and can still see the table they created. To clear all the data, they can simply click clear beside the GPA Tracker title.
+     Users can refresh the webpage again and can still see the table they created. To clear all the data, they can simply click clear beside the GPA Tracker title.
 
 1.  **Techstack**
 
-1. Useeffect, UseState, Uselocal storage are used for storing and passing data
+     1. Useeffect, UseState, Uselocal storage are used for storing and passing data
 
-2. Gatsby framework for deployment
+     2. Gatsby framework for deployment
 
-3. Index will be routed as the main file while other serves as components
+     3. Index will be routed as the main file while other serves as components
 
 
 
